@@ -1,0 +1,167 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>aDodici - Technology Reports</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+				<!-- Note: The "styleN" class below should match that of the banner element. -->
+					<header id="header" class="alt style2">
+						<a href="index.html" class="logo"><strong>aDodici</strong> <span>Group A2-12</span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+				<nav id="menu">
+					<ul class="links">
+						<li><a href="index.html" class="button primary fit">Home</a></li>
+						<li><a href="groupProfile.html">Group Profile</a></li>
+						<li><a href="idealJobs.html">Ideal Jobs</a></li>
+						<li><a href="industryData.html">Glass Industry Data</a></li>
+						<li><a href="interview.html">Intverview IT Professional</a></li>
+						<li><a href="technologies.html">IT Technology reports</a></li>
+						<li><a href="project.html">Group Project</a></li>
+						<li><a href="groupReflection.html">Group Reflection</a></li>
+					</ul>
+				</nav>
+
+				<!-- Banner -->
+				<!-- Note: The "styleN" class below should match that of the header element. -->
+					<section id="banner" class="style2">
+						<div class="inner">
+							<span class="image">
+								<img src="images/pic07.jpg" alt="" />
+							</span>
+							<header class="major">
+								<h1>Technologies Reports</h1>
+							</header>
+							<div class="content">
+								<p>Exploring four different Technology Developments.</p>
+							</div>
+						</div>
+					</section>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h2>Growing technology</h2>
+									</header>
+									<p>As a part of the group assignment 4 RMIT students were tasked with investigating the growing state of various technologies around the world.</p>
+								</div>
+							</section>
+
+						<!-- Two -->
+						<section id="two" class="spotlights">
+							<section>
+								<a href="cybersecurity.html" class="image">
+									<img src="images/cybersecurity.png" alt="" data-position="center center" />
+								</a>
+								<div class="content">
+									<div class="inner">
+										<header class="major">
+											<h3>Cybersecurity</h3>
+										</header>
+										<p>Report by Hamilton</p>
+										<ul class="actions">
+											<li><a href="cybersecurity.html" class="button">Learn more</a></li>
+										</ul>
+									</div>
+								</div>
+							</section>
+							<section>
+								<a href="blockCyrpto.html" class="image">
+									<img src="images/blockchain.jpg" alt="" data-position="top center" />
+								</a>
+								<div class="content">
+									<div class="inner">
+										<header class="major">
+											<h3>Blockchain and Cryptocurrencies</h3>
+										</header>
+										<p>Report by Jacopo</p>
+										<ul class="actions">
+											<li><a href="blockCyrpto.html" class="button">Learn more</a></li>
+										</ul>
+									</div>
+								</div>
+							</section>
+							<section>
+								<a href="machineLearning.html" class="image">
+									<img src="images/machineLearning.jpg" alt="" data-position="center center" />
+								</a>
+								<div class="content">
+									<div class="inner">
+										<header class="major">
+											<h3>Machine Learning</h3>
+										</header>
+										<p>Report by Adam</p>
+										<ul class="actions">
+											<li><a href="machineLearning.html" class="button">Learn more</a></li>
+										</ul>
+									</div>
+								</div>
+							</section>
+							<section>
+								<a href="autonomous.html" class="image">
+									<img src="images/autonomous.jpg" alt="" data-position="top center" />
+								</a>
+								<div class="content">
+									<div class="inner">
+										<header class="major">
+											<h3>Autonomous Vehicles</h3>
+										</header>
+										<p>Report by Nick</p>
+										<ul class="actions">
+											<li><a href="autonomous.html" class="button">Learn more</a></li>
+										</ul>
+									</div>
+								</div>
+							</section>
+
+						</section>
+							<!-- Two -->
+							<section id="three">
+								<div class="inner">
+									<ul class="actions">
+										<li><a href="index.html" class="button next">Return to Main Page</a></li>
+									</ul>
+								</div>
+							</section>
+
+					</div>
+
+
+
+
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
