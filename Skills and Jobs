@@ -1,0 +1,137 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>aDodici - Industry Data</title>
+
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo"><strong>aDodici</strong> <span>Group A2-12</span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+				<nav id="menu">
+					<ul class="links">
+						<li><a href="index.html" class="button primary fit">Home</a></li>
+						<li><a href="groupProfile.html">Group Profile</a></li>
+						<li><a href="idealJobs.html">Ideal Jobs</a></li>
+						<li><a href="industryData.html">Glass Industry Data</a></li>
+						<li><a href="interview.html">Intverview IT Professional</a></li>
+						<li><a href="technologies.html">IT Technology reports</a></li>
+						<li><a href="project.html">Group Project</a></li>
+						<li><a href="groupReflection.html">Group Reflection</a></li>
+					</ul>
+				</nav>
+
+				<!-- Main -->
+					<div id="main" class="alt">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h1>Industry Data</h1>
+									</header>
+
+									<!-- Content -->
+										<div class="row">
+											<div class="col-6 col-12-small">
+												<h3>Ideal Jobs for Group  aDodici</h3>
+												<p><b>Jeremy:</b> Service Desk Technician</p>
+												<p><b>Hamilton:</b> Cyber Security Analyst</p>
+												<p><b>Jacopo:</b> Frontend Developer/Designer</p>
+												<p><b>Adam:</b> Lead Software Developer</p>
+												<p><b>Nicholas:</b> Front End Web Developer</p>
+											</div>
+											<div class="col-6 col-12-small">
+												<h3>Rank in terms of Top IT Job Titles (Burning Glass Technologies</h3>
+												<p><b>Jeremy:</b> Service Desk Technician - Rank 5</p>
+												<p><b>Hamilton:</b> Cyber Security Analyst - Rank 8</p>
+												<p><b>Jacopo:</b> Frontend Developer/Designer - Rank 6</p>
+												<p><b>Adam:</b> Lead Software Developer - Rank 11</p>
+												<p><b>Nicholas:</b> Front End Web Developer - Rank 6</p>
+											</div>
+											<div class="col-6 col-12-small">
+												<h3>Groups  Required Skill Set</h3>
+												<p><b>General Skills</b> - Communication skills, problem solving, organisational skills, troubleshooting, quality assurance, control, teamwork/collaboration, creativity, research, presentation skills, planning, writing, detail-oriented, meeting deadlines, analytical skills, time management</p>
+
+												<p><b>IT Skills</b> - Technical Support, Microsoft Windows, Customer Service, Microsoft Office, JavaScript, JAVA, Project Management, Graphic Design, SQL, Business Analysis, Business Management, Software Engineering, Website Production.</p>
+											</div>
+											<div class="col-6 col-12-small">
+												<h3>Discussion of Results</h3>
+												<p>Nicholas, Jacopo, and Adam all have their ideal job as Frontend Web Developers/ software programers. These professions are focussed highly on the programming language side of things and therefore has them put very high in regards to the IT Skills ranking. Jeremy’s ideal job didn’t seem to have a wide range of the skills here as it mostly focussed on a select few. Hamilton’s ideal job had IT skills that were in the higher rating as his ideal job involved a love of giving advice on cyber security.
+
+												In terms of generic skills rank, we thought that all the skills would generally be needed to be successful in a job. We thought about how we were already in groups and having to communicate effectively to achieve the completion of this assignment.  We translated that this is why communication is rated so high on the general skills. In IT there is a lot of collaboration to complete projects and meet deadlines.
+
+ 												The Three highest ranked IT skills not in our required skill set were SAP (System Applications and Products), building relationships, Microsoft C#.
+
+												The Three highest ranked general skills not in our required skill set were mentoring, leadership, management.</p>
+											</div>
+										</div>
+
+											<!-- Break -->
+											<h2>How has the Burning Glass Data affected your opinion of your ideal job?</h2>
+											<div class="row">
+											<div class="col-4 col-12-medium">
+												<h3>Jacopo</h3>
+												<p>Front End Developers and Web Designers are two of the most requested IT Job titles, with the former ranking sixth and the latter ranking second according to the Burning Glass 2018 report. This made me more confident about my goals and career decisions. Although I was not surprised to learn that communication and problem solving skills are the two general skills in greatest demand, I was not expecting decision making and management skills to be among the last ones. This shows how important it is to both being able to work in a team and by yourself in the IT industry. As for the most requested IT skills, seeing JAVA and JavaScript ranking second and third highlighted how fundamental programming skills are for the job I want to do. </div>
+											<div class="col-4 col-12-medium">
+												<h3>Nicholas</h3>
+												<p>After reviewing the 2018 Burning Glass Industry report for IT within Australia, it is good to see that Front-End Web Developers are highly sought-after within the IT industry. It is also interesting to see that the most in-demand specialised skills are SQL and JavaScript.
+													 Although it may not be required for a Front End Developer, it might be worth looking into adding SQL into my skill-set, as it may create further opportunities within the industry. Although, it is not surprising to me that communication was the top baseline skill required in IT, it really confirms to me how important good communication is to succeed within the industry.  </p>
+											</div>
+											<div class="col-4 col-12-medium">
+												<h3>Jeremy</h3>
+												<p>Service Technician is a highly rated job title for employers within Australia. I think that it is very encouraging to know that they are looking for my ideal job. It's interesting to see that communication skills are so highly rated in general skills.
+												I think that it is slightly scary to see that programming languages are so highly rated in IT skills, but it is also not surprising. I really need to start looking into the programming languages and integrate them into my skills. 
+												At the moment I am not doing the introduction to programming due to other commitments, but I am going to enrol for the next study period and am very excited to start looking more deeply into programming languages. </p>
+											</div>
+										</div>
+										<div class="row">
+											<div class="col-4 col-12-medium">
+												<h3>Adam</h3>
+												<p>According to the Burning Glass report from 2018, Software Developers are one of the most sought-after professions in the industry. Including job listing for Software Engineers, 
+												Developers, & their senior counterparts, it is ranked #1 for active selections. This, along with 2 of the general skills with the most demand being communication skills and problem 
+												solving, makes me extremely confident about my ideal job. Customer service, technical support and graphic design being in the middle-rankings for specialised skills (although my graphic 
+												design skills need work) also improves my confidence in my ability to find work in the IT field. To be honest, I expected team building and analytical skills to be further up on the 
+												rankings of general skills, and I also believe project management being one of the highest specialised skills in demand means I may have to work more on some of my weaknesses.</p>
+											</div>
+											<div class="col-4 col-12-medium">
+												<h3>Hamilton</h3>
+												<p>My decision has not changed at all after reviewing the industry data, I can see how the Cyber/information security engineer/analyst had 2,914 vacancies form March 01, 2017 to February 28,2018 which when dealing with the security of peoples and organisations data storage and transmission seems like too much, this is one of the reasons why this job appeals to me.</p>
+												<p>I found it very interesting how communication skills were by far the highest sought-after skill defiantly something to keep in mind and build upon if I want to carve a successful path for myself in the industry. I was glad to see problem solving, organisational skills and creativity around the top, all skills I believe I possess. Most of the top specialised skills in demand I at least have some knowledge of apart from SQL, (which happens to be the most in demand), I do think I’m on the right track when the most in demand skills in the industry are ones I’m becoming familiar with. </p>
+											</div>
+										</div>
+										<div>
+			</div>
+		</div>
+	</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
